@@ -1,0 +1,130 @@
+<?php
+
+/**
+ * This a file with examples of how to use FileARBehavior and ImageARBehavior.
+ */
+
+/** ------------------------------ FileARBehavior -----------------------------
+ * Associate 1 recipe for 1 dish
+ */
+
+/** Dish.php file (model) */
+class Dish extends CActiveRecord {
+	public $recipe; // used by the form to send the file.
+	
+	public function rules()
+	{
+		return array(
+			// ...
+			// for the form too
+			array('recipe', 'file', 'types' => 'pdf, txt'),
+			// ...
+		);
+	}
+	
+	public function behaviors() {
+		return array(
+			'recipeBehavior' => array(
+				'class' => 'FileARBehavior',
+				'attribute' => 'recipe', // this must exist
+				'extension' => 'pdf, txt', // possible extensions, comma separated
+				'prefix' => 'recipe_', // if you want a prefix
+				'relativeWebRootFolder' => 'files/recipes', // this folder must exist
+				//'defaultName' => 'default', // you can also use a default file (see Ingredients with image below).
+			)
+		);
+	}
+}
+
+/** form.php file (view) */
+
+$form=$this->beginWidget('CActiveForm', array(
+	// ...
+	'htmlOptions' => array('enctype'=>'multipart/form-data'), // don't forget this option
+));
+
+// write the field
+echo $form->fileField($model,'recipe');
+
+/** In any view, access the file url (or default file url if no one is registered) **/
+
+$model->recipeBehavior->getFileUrl();
+
+// or if you only have one behavior :
+
+$model->getFileUrl();
+
+// get the file path, or null if no file exist
+
+$model->recipeBehavior->getFilePath();
+
+
+/** ------------------------------ ImageARBehavior -----------------------------
+ * Associate 1 image (with 3 formats - 3 files will be created for one dish) for 1 dish
+ */
+ 
+/** Dish.php file (model) */
+class Dish extends CActiveRecord {
+	public $recipeImg; // used by the form to send the file.
+	
+	public function rules()
+	{
+		return array(
+			// ...
+			// for the form too
+			array('recipeImg', 'file', 'types' => 'png, gif, jpg', 'allowEmpty' => true),
+			// ...
+		);
+	}
+	
+	public function behaviors() {
+		return array(
+			'recipeImgBehavior' => array(
+				'class' => 'ImageARBehavior',
+				'attribute' => 'recipeImg', // this must exist
+				'extension' => 'png, gif, jpg', // possible extensions, comma separated
+				'prefix' => 'img_',
+				'relativeWebRootFolder' => 'files/recipes', // this folder must exist
+				
+				// this will define formats for the image.
+				// The format 'normal' always exist. This is the default format, by default no
+				// suffix or no processing is enabled.
+				'formats' => array(
+					// create a thumbnail format
+					'thumb' => array(
+						'suffix' => '_thumb',
+						'process' => array('resize' => array(60, 60)),
+					),
+					// create a large one (in fact, no resize is applied)
+					'large' => array(
+						'suffix' => '_large',
+					),
+					// and override the default :
+					'normal' => array(
+						'process' => array('resize' => array(200, 200)),
+					),
+				),
+				
+				'defaultName' => 'default', // when no file is associated, this one is used by getFileUrl
+				// defaultName need to exist in the relativeWebRootFolder path, and prefixed by prefix,
+				// and with one of the possible extensions. if multiple formats are used, a default file must exist
+				// for each format. Name is constructed like this :
+				//     {prefix}{name of the default file}{suffix}{one of the extension}
+			)
+		);
+	}
+}
+
+/** In any view, access the file url (or default file url if no one is registered) **/
+
+// get the normal url
+$format = 'normal';
+$model->recipeImgBehavior->getFileUrl($format);
+
+// or if you only have one behavior :
+
+$model->getFileUrl($format);
+
+// get a list of all the file paths, or an empty array if no file exist
+
+$model->recipeBehavior->getFilePath();

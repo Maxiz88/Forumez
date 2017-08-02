@@ -1,0 +1,8 @@
+
+* put the ImageARBehavior.php and FileARBehavior in your components directory.
+
+* put the image directory in your extensions directory.
+
+Then, you can ee the example file to see how it works.
+
+author: parcouss

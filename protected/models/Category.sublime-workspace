@@ -1,0 +1,639 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"my",
+				"mysql_query	(delete.php)"
+			],
+			[
+				"va",
+				"value	(jquery.js)"
+			],
+			[
+				"preve",
+				"preventDefault	(jquery.js)"
+			],
+			[
+				"obj",
+				"objName〔argument〕"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"ob",
+				"objKey"
+			],
+			[
+				"o",
+				"objName"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"fir",
+				"firstElementChild"
+			],
+			[
+				"clo",
+				"cloneNode	(007_DOM_Methods&Prop.html)"
+			],
+			[
+				"next",
+				"nextElementSibling	(004_ParentNode.PrevNextSibling.html)"
+			],
+			[
+				"pa",
+				"parentNode	(004_ParentNode.PrevNextSibling.html)"
+			],
+			[
+				"in",
+				"innerHTML	(003_First&LastChild.html)"
+			],
+			[
+				"tag",
+				"tagName	(002_ChildNodes.html)"
+			],
+			[
+				"button",
+				"buttonAttr"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"O",
+				"Object	(func.html)"
+			],
+			[
+				"ma",
+				"mainSlide"
+			],
+			[
+				"slide",
+				"slide_main"
+			],
+			[
+				"sli",
+				"slide_main"
+			],
+			[
+				"da",
+				"dayNum"
+			],
+			[
+				"get",
+				"getDay"
+			],
+			[
+				"fun",
+				"function	(func.html)"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ne",
+				"newUlwidth"
+			],
+			[
+				"fi",
+				"firstElementChild"
+			],
+			[
+				"child",
+				"childFirst"
+			],
+			[
+				"com",
+				"computedMain"
+			],
+			[
+				"ch",
+				"childFirst"
+			],
+			[
+				"bu",
+				"buttonAttr"
+			],
+			[
+				"eve",
+				"event	(002_Homework.html)"
+			],
+			[
+				"ad",
+				"addEventListener	(001_Delegate_Error.html)"
+			],
+			[
+				"remo",
+				"removeEventListener"
+			],
+			[
+				"le",
+				"length	(slider.html)"
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"re",
+				"return	(slider.html)"
+			],
+			[
+				"blo",
+				"blockTooltip"
+			],
+			[
+				"cre",
+				"createElement〔function〕"
+			],
+			[
+				"to",
+				"tooltip"
+			],
+			[
+				"on",
+				"onmouseout	(003_Homework.html)"
+			],
+			[
+				"dele",
+				"deleteOnClickBlock"
+			],
+			[
+				"remove",
+				"removeEventListener	(001_HomeWork.html)"
+			],
+			[
+				"stop",
+				"stopDelete"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"sto",
+				"stopDelete"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"firs",
+				"firstElementChild	(slider.html)"
+			],
+			[
+				"pare",
+				"parentNode"
+			],
+			[
+				"rem",
+				"remove	(001_HomeWork.html)"
+			],
+			[
+				"targ",
+				"targetButton"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"wi",
+				"window	(001_Delegate_Error.html)"
+			],
+			[
+				"tota",
+				"totalSlides"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"par",
+				"parseInt〔function〕"
+			],
+			[
+				"main",
+				"mainChildLength"
+			],
+			[
+				"co",
+				"computedMain"
+			],
+			[
+				"two",
+				"two_second"
+			],
+			[
+				"str",
+				"strTwo"
+			],
+			[
+				"inde",
+				"insertAdjacentHTML"
+			],
+			[
+				"a",
+				"afterBegin	(003_insertAdjacentText.html)"
+			],
+			[
+				"q",
+				"quest_summery"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"ele",
+				"elemChild"
+			],
+			[
+				"no",
+				"nodeName	(003_First&LastChild.html)"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"ta",
+				"tagName	(003_First&LastChild.html)"
+			],
+			[
+				"elem",
+				"elementChild"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"getE",
+				"getElementsByClassName	(004_DocumentgetElementsByClassName.html)"
+			],
+			[
+				"pr",
+				"previousSibling	(004_ParentNode.PrevNextSibling.html)"
+			],
+			[
+				"hme",
+				"hmenu"
+			],
+			[
+				"bo",
+				"bs3-row	bs3-row"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"di",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 226.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"https://packagecontrol.io/installation",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/OpenServer/domains/localhost/test_project/config.php",
+		"/Z/OpenServer/domains/localhost/test_project/data.txt",
+		"/Z/OpenServer/domains/localhost/test_project/delete.php",
+		"/Z/OpenServer/domains/localhost/test_project/jquery.js",
+		"/Z/OpenServer/domains/localhost/test_project/jquery.min.js",
+		"/Z/OpenServer/domains/localhost/test_project/search.php",
+		"/Z/OpenServer/domains/localhost/test_project/test.sql",
+		"/Z/OpenServer/domains/localhost/test_project/update.php",
+		"/Z/OpenServer/domains/localhost/test_project/add.php",
+		"/Z/OpenServer/domains/localhost/test_project/create.php",
+		"/Z/OpenServer/domains/localhost/test_project/new.php",
+		"/Z/OpenServer/domains/localhost/test_project/index.php",
+		"/D/учеба/JS/lesson9/001_DateTime/001_DateTime.html",
+		"/D/учеба/JS/lesson9/001_DateTime/002_DateGet.html",
+		"/D/учеба/JS/lesson9/001_DateTime/004_Value_OF_Time.html",
+		"/D/учеба/JS/lesson9/001_DateTime/003_DateSet.html",
+		"/Z/OpenServer/domains/localhost/training/Date.html",
+		"/D/учеба/JS/lesson9/func.html",
+		"/Z/OpenServer/domains/localhost/training/slider.html",
+		"/Z/OpenServer/domains/localhost/training/oop_slider.html",
+		"/Z/OpenServer/domains/localhost/training/object.html",
+		"/D/учеба/JS/lesson11/001_Images/002_Images_Loop.html",
+		"/D/учеба/JS/lesson11/001_Images/004_preLoad.html",
+		"/D/учеба/JS/lesson11/002_SVG/003_SVG_More.html",
+		"/D/учеба/JS/lesson11/002_SVG/004_Paths.html",
+		"/D/учеба/JS/lesson11/002_SVG/005_SVG_Text.html",
+		"/D/учеба/JS/lesson11/002_SVG/006_Blur.html",
+		"/D/учеба/JS/lesson11/002_SVG/007_Example.html",
+		"/D/учеба/JS/lesson11/002_SVG/001_SVG.html",
+		"/D/учеба/JS/lesson11/002_SVG/002_SVG_Figures.html",
+		"/D/учеба/JS/lesson11/001_Images/005_Lamp.html",
+		"/D/учеба/JS/lesson11/001_Images/Homework.html",
+		"/D/учеба/JS/lesson11/001_Images/001_Images.html",
+		"/D/учеба/JS/lesson11/001_Images/003_Image_Create.html",
+		"/D/учеба/JS/slider-wheel.html",
+		"/D/учеба/JS/slider.html",
+		"/D/учеба/JS/lesson3/04_DOM/001_NodeType.html",
+		"/D/учеба/JS/lesson3/04_DOM/002_ChildNodes.html",
+		"/D/учеба/JS/lesson3/04_DOM/003_First&LastChild.html",
+		"/D/учеба/JS/lesson3/04_DOM/004_ParentNode.PrevNextSibling.html",
+		"/D/учеба/JS/lesson3/04_DOM/005_DOM_Attributes.html",
+		"/D/учеба/JS/lesson3/04_DOM/006_DOM_Methods&Prop.html",
+		"/D/учеба/JS/lesson3/04_DOM/007_DOM_Methods&Prop.html",
+		"/Z/OpenServer/domains/localhost/training/coockie.html",
+		"/D/учеба/JS/lesson4(1)/003_Other_Options/001_insertAdjacentHTML.html",
+		"/D/учеба/JS/lesson8/001_Coordinates/002_ScrollTo_By.html",
+		"/D/учеба/JS/lesson8/001_Coordinates/003_ScrollIntoView.html",
+		"/D/учеба/JS/lesson8/001_Coordinates/004_PreventScroll.html",
+		"/D/учеба/JS/lesson8/001_Coordinates/005_scrollWidth.html",
+		"/D/учеба/JS/lesson8/001_Coordinates/006_offsetWidth_Height.html",
+		"/D/учеба/JS/lesson8/001_Coordinates/007_onScroll.html",
+		"/D/учеба/JS/lesson8/002_Forms/010_CopyPaste.html",
+		"/D/учеба/JS/lesson8/002_Forms/011_onSubmit.html",
+		"/D/учеба/JS/lesson8/002_Forms/012_Blur_Focus.html",
+		"/D/учеба/JS/lesson8/002_Forms/013_FormValidation.html",
+		"/D/учеба/JS/lesson8/002_Forms/Homework.html",
+		"/D/учеба/JS/lesson8/002_Forms/Validate.js",
+		"/D/учеба/JS/lesson8/002_Forms/001_Forms.html",
+		"/D/учеба/JS/lesson8/002_Forms/002_Label.html",
+		"/D/учеба/JS/lesson8/002_Forms/003_Inputs.html",
+		"/D/учеба/JS/lesson8/002_Forms/004_CheckBox_radio.html",
+		"/D/учеба/JS/lesson8/002_Forms/005_GetForm.html",
+		"/D/учеба/JS/lesson8/002_Forms/006_Select.html",
+		"/D/учеба/JS/lesson8/002_Forms/007_onChange.html",
+		"/D/учеба/JS/lesson8/002_Forms/008_onInput.html",
+		"/D/учеба/JS/lesson8/002_Forms/009_onPropertyChange.html",
+		"/D/учеба/JS/lesson8/001_Coordinates/008_onWheel.html",
+		"/D/учеба/JS/lesson8/001_Coordinates/Homework.html",
+		"/D/учеба/JS/lesson8/001_Coordinates/001_Scroll.html",
+		"/D/учеба/JS/lesson6/002_Events/001_Events.html",
+		"/D/учеба/JS/lesson6/002_Events/002_Attr.html",
+		"/D/учеба/JS/lesson6/002_Events/003_Property.html",
+		"/D/учеба/JS/lesson6/002_Events/004_this.html",
+		"/D/учеба/JS/lesson6/002_Events/005_this_Example.html",
+		"/D/учеба/JS/lesson6/002_Events/silver-gray-minky-fabric_medium.jpg",
+		"/D/учеба/JS/lesson7/002_Delegate/001_Delegate_Error.html",
+		"/D/учеба/JS/lesson7/001_HomeWork.html",
+		"/D/учеба/JS/lesson7/002_Homework.html",
+		"/D/учеба/JS/lesson7/003_Homework.html",
+		"/D/учеба/JS/lesson7/002_Delegate/002_Delegate_Almost_Correct.html",
+		"/D/учеба/JS/lesson7/002_Delegate/003_Delegate_Correct.html",
+		"/D/учеба/JS/lesson7/002_Delegate/004_Attr_Tech.html",
+		"/D/учеба/JS/lesson6/HomeWork.html",
+		"/Z/OpenServer/domains/localhost/training/listeners.html",
+		"/D/учеба/JS/lesson7/001_addEventListener/001_Bubbling.html",
+		"/D/учеба/JS/lesson7/001_addEventListener/002_addEventListener.html",
+		"/D/учеба/JS/lesson7/001_addEventListener/003_removeEventListener.html",
+		"/D/учеба/JS/lesson7/001_addEventListener/004_Event_LifeCycle.html",
+		"/D/учеба/JS/lesson7/001_addEventListener/005_stopPropagation.html",
+		"/D/учеба/JS/lesson7/001_addEventListener/006_preventDefault.html",
+		"/D/учеба/JS/lesson7/001_addEventListener/007_OldIe.html",
+		"/D/учеба/JS/lesson7/001_addEventListener/008_crossBrowser.html",
+		"/D/учеба/JS/lesson7/004_Coordinates/001_Page_Content.html",
+		"/D/учеба/JS/lesson7/004_Coordinates/002_Page_getBoundingClientRect.html",
+		"/D/учеба/JS/lesson7/004_Coordinates/003_Page.html",
+		"/D/учеба/JS/lesson7/004_Coordinates/004_Screen.html",
+		"/D/учеба/JS/lesson7/004_Coordinates/005_Client_Height_Width.html",
+		"/Z/OpenServer/domains/localhost/training/Listeners.html",
+		"/D/учеба/JS/lesson7/002_Delegate/Homework.html",
+		"/D/учеба/JS/lesson7/003_Miscellaneous/001_Async_Events.html",
+		"/D/учеба/JS/lesson7/003_Miscellaneous/javascript.jpg",
+		"/D/учеба/JS/Lesson4/001_CSS_Selectors/002_All_Elements.html",
+		"/D/учеба/JS/Lesson4/001_CSS_Selectors/003_Children_Parent.html",
+		"/D/учеба/JS/Lesson4/001_CSS_Selectors/004_Prev_Next.html",
+		"/D/учеба/JS/Lesson4/001_CSS_Selectors/005_Attr.html",
+		"/D/учеба/JS/Lesson4/001_CSS_Selectors/001_Id_And_Classes.html",
+		"/D/учеба/JS/Lesson4/002_querySelector/002_querySelector.html",
+		"/D/учеба/JS/Lesson4/002_querySelector/003_querySelectorAll.html",
+		"/D/учеба/JS/Lesson4/002_querySelector/004_matchesSelector.html",
+		"/D/учеба/JS/Lesson4/002_querySelector/005_cssText.html",
+		"/D/учеба/JS/Lesson4/002_querySelector/006_classList.html",
+		"/D/учеба/JS/Lesson4/002_querySelector/007_getComputedStyle.html",
+		"/D/учеба/JS/Lesson4/002_querySelector/009_Example2.html",
+		"/D/учеба/JS/Lesson4/002_querySelector/008_Example.html",
+		"/D/учеба/JS/Lesson4/002_querySelector/001_CSS_Prop.html",
+		"/D/учеба/JS/Lesson4/002_querySelector/Classwork_Homework.html",
+		"/D/учеба/JS/lesson7/003_Miscellaneous/003_DOMContentLoaded.html",
+		"/D/учеба/JS/lesson7/003_Miscellaneous/002_Async_Events_Correct.html",
+		"/C/Users/Макс/Desktop/project/dist/DomHomework.html",
+		"/C/Users/Макс/Desktop/project/dist/ClassWork.js",
+		"/C/Users/Макс/Desktop/project/dist/ClassWork.html",
+		"/Z/OpenServer/domains/Forumez/protected/models/Category.sublime-project",
+		"/C/Users/Макс/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/D/учеба/JS/lesson6/003_Specific_Events/006_MouseEvents.html",
+		"/D/учеба/JS/lesson6/001_Regular_Exp_Part2/004_RegExp_Greedy.html",
+		"/D/учеба/JS/lesson6/001_Regular_Exp_Part2/005_RegExp_Groups.html",
+		"/D/учеба/JS/lesson6/001_Regular_Exp_Part2/Homework.html",
+		"/D/учеба/JS/lesson6/001_Regular_Exp_Part2/001_RegExp.html"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 78.0
+	},
+	"pinned_build_system": "",
+	"project": "Category.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
